@@ -1,0 +1,18 @@
+* {
+  width: 90%;
+  margin: auto;
+}
+.nav-items {
+  margin-top: 5%;
+  display: flex;
+}
+
+.nav-bar ul li {
+  list-style: none;
+  padding: 0;
+  background-color: #3492eb;
+  color: white;
+  margin: 0 20px 0 20px;
+  text-align: center;
+  border-radius: 20%;
+}

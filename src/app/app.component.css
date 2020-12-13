@@ -1,3 +1,13 @@
 p {
   font-family: Lato;
 }
+* {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+}
+
+body {
+  color: red;
+  
+}
